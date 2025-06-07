@@ -3,27 +3,13 @@
 <p align = center><img src = "https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
 
 
-*“From Jupyter experiments to a live Streamlit app — what a ride!”*  
+>*“From Jupyter experiments to a live Streamlit app — what a ride!”*
 
 
 ---
 
 ## 🤖Introduction
 So, this is my first project using StreamLit service in python used for deploying my machine learning model which is also my first built model.
-
----
-
-## 📌 Table of Contents
-
-## 📌 Table of Contents
-
-- [About the Project](#about-the-project)  
-- [Model Journey & Challenges](#model-journey--challenges)  
-- [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Deployment](#deployment)  
-- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -131,15 +117,6 @@ To deploy it yourself:
 
 ---
 
-## 🙌 Acknowledgements
-
-- Built with ❤️ by **FR34K (Ojasvi Goyal)**
-- Thanks to:
-  - **Streamlit** for the lightning-fast app framework
-  - **Scikit-learn**, **Pandas**, and **Matplotlib** for model building
-  - **GIPHY** and **Unsplash** for visual content
-
----
-
 >“In the end, it’s not just about predictions… it’s about the journey of building, breaking, fixing, and learning.” 🚀
----
+
+
