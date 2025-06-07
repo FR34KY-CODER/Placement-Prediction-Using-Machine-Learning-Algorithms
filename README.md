@@ -2,8 +2,9 @@
 
 <p align = center><img src = "https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
 
+
 *“From Jupyter experiments to a live Streamlit app — what a ride!”*  
-[🚀 Live Demo](https://placement-prediction-using-machine-learning-algorithms-cmy2s3s.streamlit.app/)
+
 
 ---
 
@@ -140,5 +141,5 @@ To deploy it yourself:
 ---
 
 >“In the end, it’s not just about predictions… it’s about the journey of building, breaking, fixing, and learning.” 🚀
-[![Made with Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/)
+![Last commit](https://img.shields.io/github/last-commit/OjasviGoyal/placement-predictor)
 ---
