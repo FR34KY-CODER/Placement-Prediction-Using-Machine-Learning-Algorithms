@@ -15,13 +15,14 @@ So, this is my first project using StreamLit service in python used for deployin
 
 ## 📌 Table of Contents
 
+## 📌 Table of Contents
+
 - [About the Project](#about-the-project)  
 - [Model Journey & Challenges](#model-journey--challenges)  
 - [Features](#features)  
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [Deployment](#deployment)  
-- [Screenshots & Memes](#screenshots--memes)  
 - [Acknowledgements](#acknowledgements)
 
 ---
