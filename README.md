@@ -139,6 +139,6 @@ To deploy it yourself:
 
 ---
 
-> _“Machine Learning is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it…”_ 😄
-
+>“In the end, it’s not just about predictions… it’s about the journey of building, breaking, fixing, and learning.” 🚀
+[![Made with Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/)
 ---
