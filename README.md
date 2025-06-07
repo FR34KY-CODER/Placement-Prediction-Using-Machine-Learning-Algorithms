@@ -117,6 +117,6 @@ To deploy it yourself:
 
 ---
 
->“In the end, it’s not just about predictions… it’s about the journey of building, breaking, fixing, and learning.” 🚀
+>***“In the end, it’s not just about predictions… it’s about the journey of building, breaking, fixing, and learning.”*** 🚀
 
 
