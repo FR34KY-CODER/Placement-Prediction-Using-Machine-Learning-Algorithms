@@ -1,9 +1,14 @@
 # 🎓 Placement Predictor
 
-![Banner Image](https://source.unsplash.com/1600x400/?data,machine-learning)
+<p align = center><img src = "https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
 
 *“From Jupyter experiments to a live Streamlit app — what a ride!”*  
 [🚀 Live Demo](https://placement-prediction-using-machine-learning-algorithms-cmy2s3s.streamlit.app/)
+
+---
+
+## 🤖Introduction
+So, this is my first project using StreamLit service in python used for deploying my machine learning model which is also my first built model.
 
 ---
 
@@ -120,21 +125,7 @@ To deploy it yourself:
 3. Choose your repo → Main file: `streamlit_app.py` → Deploy  
 4. Done. 🎉
 
----
-
-## 📸 Screenshots & Memes
-
-### Dark Theme Vibes
-![Dark UI](https://source.unsplash.com/800x400/?dark,code)
-
-### When your model *finally* predicts “PLACED”
 ![Success Kid](https://media.giphy.com/media/111ebonMs90YLu/giphy.gif)
-
-### Watching SVM model eat your RAM:
-![SVM Meltdown](https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif)
-
-### Me, waiting for deployment to finish:
-![Waiting GIF](https://media.giphy.com/media/3o7TKrjz5Tx5ZS6bGM/giphy.gif)
 
 ---
 
